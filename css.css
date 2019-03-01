@@ -1,0 +1,507 @@
+html, body {
+
+	height: 100%;
+
+/* 	background-color: #f294d3; */
+	background-color: #f6f6f6;
+
+}
+
+
+
+img, div, input {
+
+	behavior: url("iepngfix.htc");
+
+}
+
+
+
+html, body, h1, h2, h3, h4, h5, h6, p, div, small, big, th, td, ul, ol, dl, form, img {
+
+	margin: 0;
+
+	padding: 0;
+
+	border: none;
+
+	font-family: arial, verdana, geneva, sans-serif;
+
+	color: #999999;
+/* 	color: #98c41c; */
+
+}
+
+
+
+font, th, td, p {
+
+	font-size: 12px;
+
+	line-height: 1.0em;
+
+}
+
+li {
+
+	margin-left: 1.5em;
+
+}
+
+h1, h2, h3, h4, h5, h6, p {
+
+	padding-bottom: 0.75em;
+
+}
+
+
+
+a:link {
+
+	color: #999999;
+
+	background-color: transparent;
+
+}
+
+a:visited {
+
+	color: #999999;
+
+	background-color: transparent;
+
+}
+
+a:active {
+
+	color: #333333;
+
+	background-color: transparent;
+
+}
+
+a:hover {
+
+	color: #333333;
+
+	background-color: transparent;
+
+}
+
+
+
+/* per-site styles below... */
+
+
+
+.tmpbg {
+
+	background: rgba(164, 8, 8, 0.42) url('i/tmp_bg.gif') no-repeat left top;
+/* 	background: #F6F6F6 url('i/tmp_bg.gif') no-repeat left top; */
+
+}
+
+.tmpcopy {
+
+	color: #AFB0AC;
+
+	line-height: 1.5em;
+
+}
+
+.tmphead {
+
+	color: #666666;
+
+	line-height: 1.5em;
+
+}
+
+.tmphead a:link, .tmphead a:visited {
+
+	color: #666666;
+
+	text-decoration: none;
+
+}
+
+.tmphead a:active, .tmphead a:hover {
+
+	color: #666666;
+
+	text-decoration: underline;
+
+}
+
+
+
+
+
+
+
+body.intro {
+
+	background: #f6f6f6 url(i/bg_intro.jpg) no-repeat left top;
+
+}
+
+body.works {
+
+	background: #f6f6f6 url(i/bg_works.jpg) no-repeat left top;
+
+}
+
+body.about {
+
+	background: #f6f6f6 url(i/bg_about.jpg) no-repeat left top;
+
+}
+
+body.contact {
+
+	background: #f6f6f6 url(i/bg_contact.jpg) no-repeat left top;
+
+}
+
+h1.intro {
+
+/*	color: #11DBCF;*/
+
+	color: #6FE8E1;
+
+	font-family: din-light, din, 'Trebuchet MS', verdana, geneva, arial, sans-serif;
+
+	font-size: 48px;
+
+	font-weight: 100;
+
+	letter-spacing: -2px;
+
+	padding-top: 170px;
+
+	padding-left: 588px;
+
+	padding-bottom: 20px;
+
+}
+
+p.intro {
+
+	color: #bbbbbb;
+
+	font-family: din-light, din, 'Trebuchet MS', verdana, geneva, arial, sans-serif;
+
+	font-size: 14px;
+
+	padding-left: 588px;
+
+}
+
+p.intro a:link, p.intro a:visited {
+
+	color: #bbbbbb;
+
+	background-color: transparent;
+
+	text-decoration: none;
+
+}
+
+p.intro a:active, p.intro a:hover {
+
+	color: #6FE8E1;
+
+	background-color: transparent;
+
+	text-decoration: underline;
+
+}
+
+
+
+.about_intro {
+
+	color: #6FE8E1;
+
+	font-family: din-regular, din, 'Trebuchet MS', verdana, geneva, arial, sans-serif;
+
+	font-size: 17px;
+
+	font-weight: 500;
+
+	line-height: 1.2em;
+
+	padding-top: 26px;
+
+}
+
+.about_copy {
+
+	line-height: 1.7em;
+
+}
+
+
+
+.contact_copy {
+
+	line-height: 1.7em;
+
+	padding: 130px 0 0 140px;
+
+}
+
+
+
+.footer_logo {
+
+	color: #6FE8E1;
+
+	font-family: din-light, din, 'Trebuchet MS', verdana, geneva, arial, sans-serif;
+
+	font-size: 24px;
+
+	font-weight: 100;
+
+	letter-spacing: -2px;
+
+}
+
+
+
+.footer_copyright {
+
+	color: #999999;
+
+	font-family: arial, verdana, geneva, sans-serif;
+
+	font-size: 10px;
+
+}
+
+.footer_copyright a:link, .footer_copyright a:visited {
+
+	color: #999999;
+
+	text-decoration: none;
+
+}
+
+.footer_copyright a:active, .footer_copyright a:hover {
+
+	color: #000000;
+
+	text-decoration: underline;
+
+}
+
+
+
+.sn_sel {
+
+	color: #6FE8E1;
+
+	text-decoration: underline;
+
+}
+
+
+
+
+
+.work_head {
+
+	font-family: arial, verdana, geneva, sans-serif;
+
+	font-size: 13px;
+
+	padding-bottom: 7px;
+
+}
+
+.work_desc {
+
+	font-family: arial, verdana, geneva, sans-serif;
+
+	line-height: 1.2em;
+
+	font-size: 11px;
+
+}
+
+
+
+div.workimgcontainer {
+
+	height: 409px;
+
+	padding-bottom: 0.75em;
+
+}	
+
+
+
+td.navpanel {
+
+	font-family: din-light, din, 'Trebuchet MS', verdana, geneva, arial, sans-serif;
+
+	font-size: 12px;
+
+}
+
+
+
+p.nav1 {
+
+	font-family: din-light, din, 'Trebuchet MS', verdana, geneva, arial, sans-serif;
+
+	padding-bottom: 1.6em;
+
+}
+
+.nav1 a:link, .nav1 a:visited {
+
+	color: #999999;
+
+	text-decoration: none;
+
+}
+
+.nav1 a:active, .nav1 a:hover {
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+.nav1h a:link, .nav1h a:visited {
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+.nav1h a:active, .nav1h a:hover {
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+
+
+p.nav2 {
+
+	font-family: din-light, din, 'Trebuchet MS', verdana, geneva, arial, sans-serif;
+
+	padding-bottom: 1.2em;
+
+}
+
+.nav2 a:link, .nav2 a:visited {
+
+	color: #999999;
+
+	text-decoration: none;
+
+}
+
+.nav2 a:active, .nav2 a:hover {
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+.nav2h a:link, .nav2h a:visited {
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+.nav2h a:active, .nav2h a:hover {
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+p.nav3 {
+
+	font-family: din-light, din, 'Trebuchet MS', verdana, geneva, arial, sans-serif;
+
+	padding-bottom: 1.0em;
+
+	margin-left: 0.9em;
+
+}
+
+.nav3 a:link, .nav3 a:visited {
+
+	color: #999999;
+
+	text-decoration: none;
+
+}
+
+.nav3 a:active, .nav3 a:hover {
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+.nav3h a:link, .nav3h a:visited {
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+.nav3h a:active, .nav3h a:hover {
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+
+
+a.sel:link, a.sel:visited {
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+
+
+.navnum a:link, .navnum a:visited {
+
+	color: #333333;
+
+	background-color: transparent;
+
+	text-decoration: none;
+
+}
+
+.navnum a:active, .navnum a:hover {
+
+	color: #000000;
+
+	background-color: transparent;
+
+}
+

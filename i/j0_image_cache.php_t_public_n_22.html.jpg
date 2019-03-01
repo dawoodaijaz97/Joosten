@@ -1,0 +1,3 @@
+</td></tr></table><b>Database error:</b> Invalid SQL: SELECT mime_type, image_data as image_data FROM public_image WHERE image_id=22<br>
+<b>MySQL Error</b>: 1146 (Table 'mauricejoosten.public_image' doesn't exist)<br>
+Session halted.
