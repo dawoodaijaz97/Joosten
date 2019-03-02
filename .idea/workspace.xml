@@ -1,7 +1,395 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="382e884d-b449-44dd-810c-61c714bcda93" name="Default Changelist" comment="" />
+    <list default="true" id="382e884d-b449-44dd-810c-61c714bcda93" name="Default Changelist" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/about.php_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact.php_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temperory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temperory2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-landing.php_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_100_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_101_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_102_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_103_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_104_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_105_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_106_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_107_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_108_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_109_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_10_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_11_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_12_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_13_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_14_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_15_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_16_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_1_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_27_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_28_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_2_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_30_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_31_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_32_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_33_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_34_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_37_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_38_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_39_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_3_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_41_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_42_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_43_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_44_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_45_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_46_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_47_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_48_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_49_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_4_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_50_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_51_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_52_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_53_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_54_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_55_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_56_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_57_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_58_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_5_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_60_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_61_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_62_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_63_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_64_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_65_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_66_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_67_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_68_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_69_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_6_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_70_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_71_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_72_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_73_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_75_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_76_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_77_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_78_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_79_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_7_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_80_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_81_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_82_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_83_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_85_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_86_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_87_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_88_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_89_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_90_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_91_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_92_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_93_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_94_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_95_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_96_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_97_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_98_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-private.php_work_99_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_10_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_11_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_12_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_13_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_14_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_15_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_16_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_17_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_18_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_19_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_1_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_20_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_21_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_22_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_23_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_24_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_25_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_26_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_27_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_28_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_29_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_2_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_30_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_31_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_32_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_34_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_36_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_37_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_38_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_39_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_40_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_41_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_4_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_5_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_6_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_7_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_8_lang_en.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/works-public.php_work_9_lang_en.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-landing.php.html" afterPath="$PROJECT_DIR$/works-landing.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_1.html" afterPath="$PROJECT_DIR$/works-private.php_work_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_10.html" afterPath="$PROJECT_DIR$/works-private.php_work_10.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_100.html" afterPath="$PROJECT_DIR$/works-private.php_work_100.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_100_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_100_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_101.html" afterPath="$PROJECT_DIR$/works-private.php_work_101.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_101_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_101_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_102.html" afterPath="$PROJECT_DIR$/works-private.php_work_102.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_102_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_102_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_103.html" afterPath="$PROJECT_DIR$/works-private.php_work_103.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_103_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_103_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_104.html" afterPath="$PROJECT_DIR$/works-private.php_work_104.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_104_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_104_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_105.html" afterPath="$PROJECT_DIR$/works-private.php_work_105.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_105_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_105_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_106.html" afterPath="$PROJECT_DIR$/works-private.php_work_106.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_106_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_106_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_107.html" afterPath="$PROJECT_DIR$/works-private.php_work_107.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_107_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_107_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_108.html" afterPath="$PROJECT_DIR$/works-private.php_work_108.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_108_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_108_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_109.html" afterPath="$PROJECT_DIR$/works-private.php_work_109.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_109_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_109_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_10_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_10_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_11.html" afterPath="$PROJECT_DIR$/works-private.php_work_11.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_11_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_11_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_12.html" afterPath="$PROJECT_DIR$/works-private.php_work_12.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_12_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_12_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_13.html" afterPath="$PROJECT_DIR$/works-private.php_work_13.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_13_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_13_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_14.html" afterPath="$PROJECT_DIR$/works-private.php_work_14.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_14_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_14_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_15.html" afterPath="$PROJECT_DIR$/works-private.php_work_15.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_15_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_15_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_16.html" afterPath="$PROJECT_DIR$/works-private.php_work_16.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_16_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_16_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_2.html" afterPath="$PROJECT_DIR$/works-private.php_work_2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_27.html" afterPath="$PROJECT_DIR$/works-private.php_work_27.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_27_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_27_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_28.html" afterPath="$PROJECT_DIR$/works-private.php_work_28.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_28_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_28_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_3.html" afterPath="$PROJECT_DIR$/works-private.php_work_3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_30.html" afterPath="$PROJECT_DIR$/works-private.php_work_30.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_30_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_30_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_31.html" afterPath="$PROJECT_DIR$/works-private.php_work_31.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_31_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_31_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_32.html" afterPath="$PROJECT_DIR$/works-private.php_work_32.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_32_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_32_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_33.html" afterPath="$PROJECT_DIR$/works-private.php_work_33.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_33_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_33_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_34.html" afterPath="$PROJECT_DIR$/works-private.php_work_34.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_34_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_34_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_37.html" afterPath="$PROJECT_DIR$/works-private.php_work_37.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_37_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_37_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_38.html" afterPath="$PROJECT_DIR$/works-private.php_work_38.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_38_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_38_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_39.html" afterPath="$PROJECT_DIR$/works-private.php_work_39.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_39_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_39_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_4.html" afterPath="$PROJECT_DIR$/works-private.php_work_4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_41.html" afterPath="$PROJECT_DIR$/works-private.php_work_41.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_41_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_41_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_42.html" afterPath="$PROJECT_DIR$/works-private.php_work_42.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_42_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_42_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_43.html" afterPath="$PROJECT_DIR$/works-private.php_work_43.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_43_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_43_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_44.html" afterPath="$PROJECT_DIR$/works-private.php_work_44.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_44_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_44_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_45.html" afterPath="$PROJECT_DIR$/works-private.php_work_45.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_45_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_45_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_46.html" afterPath="$PROJECT_DIR$/works-private.php_work_46.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_46_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_46_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_47.html" afterPath="$PROJECT_DIR$/works-private.php_work_47.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_47_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_47_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_48.html" afterPath="$PROJECT_DIR$/works-private.php_work_48.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_48_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_48_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_49.html" afterPath="$PROJECT_DIR$/works-private.php_work_49.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_49_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_49_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_5.html" afterPath="$PROJECT_DIR$/works-private.php_work_5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_50.html" afterPath="$PROJECT_DIR$/works-private.php_work_50.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_50_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_50_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_51.html" afterPath="$PROJECT_DIR$/works-private.php_work_51.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_51_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_51_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_52.html" afterPath="$PROJECT_DIR$/works-private.php_work_52.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_52_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_52_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_53.html" afterPath="$PROJECT_DIR$/works-private.php_work_53.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_53_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_53_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_54.html" afterPath="$PROJECT_DIR$/works-private.php_work_54.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_54_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_54_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_55.html" afterPath="$PROJECT_DIR$/works-private.php_work_55.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_55_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_55_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_56.html" afterPath="$PROJECT_DIR$/works-private.php_work_56.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_56_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_56_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_57.html" afterPath="$PROJECT_DIR$/works-private.php_work_57.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_57_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_57_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_58.html" afterPath="$PROJECT_DIR$/works-private.php_work_58.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_58_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_58_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_6.html" afterPath="$PROJECT_DIR$/works-private.php_work_6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_60.html" afterPath="$PROJECT_DIR$/works-private.php_work_60.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_60_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_60_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_61.html" afterPath="$PROJECT_DIR$/works-private.php_work_61.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_61_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_61_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_62.html" afterPath="$PROJECT_DIR$/works-private.php_work_62.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_62_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_62_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_63.html" afterPath="$PROJECT_DIR$/works-private.php_work_63.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_63_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_63_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_64.html" afterPath="$PROJECT_DIR$/works-private.php_work_64.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_64_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_64_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_65.html" afterPath="$PROJECT_DIR$/works-private.php_work_65.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_65_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_65_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_66.html" afterPath="$PROJECT_DIR$/works-private.php_work_66.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_66_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_66_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_67.html" afterPath="$PROJECT_DIR$/works-private.php_work_67.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_67_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_67_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_68.html" afterPath="$PROJECT_DIR$/works-private.php_work_68.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_68_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_68_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_69.html" afterPath="$PROJECT_DIR$/works-private.php_work_69.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_69_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_69_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_7.html" afterPath="$PROJECT_DIR$/works-private.php_work_7.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_70.html" afterPath="$PROJECT_DIR$/works-private.php_work_70.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_70_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_70_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_71.html" afterPath="$PROJECT_DIR$/works-private.php_work_71.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_71_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_71_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_72.html" afterPath="$PROJECT_DIR$/works-private.php_work_72.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_72_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_72_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_73.html" afterPath="$PROJECT_DIR$/works-private.php_work_73.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_73_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_73_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_75.html" afterPath="$PROJECT_DIR$/works-private.php_work_75.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_75_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_75_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_76.html" afterPath="$PROJECT_DIR$/works-private.php_work_76.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_76_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_76_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_77.html" afterPath="$PROJECT_DIR$/works-private.php_work_77.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_77_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_77_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_78.html" afterPath="$PROJECT_DIR$/works-private.php_work_78.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_78_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_78_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_79.html" afterPath="$PROJECT_DIR$/works-private.php_work_79.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_79_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_79_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_7_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_7_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_80.html" afterPath="$PROJECT_DIR$/works-private.php_work_80.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_80_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_80_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_81.html" afterPath="$PROJECT_DIR$/works-private.php_work_81.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_81_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_81_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_82.html" afterPath="$PROJECT_DIR$/works-private.php_work_82.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_82_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_82_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_83.html" afterPath="$PROJECT_DIR$/works-private.php_work_83.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_83_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_83_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_85.html" afterPath="$PROJECT_DIR$/works-private.php_work_85.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_85_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_85_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_86.html" afterPath="$PROJECT_DIR$/works-private.php_work_86.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_86_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_86_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_87.html" afterPath="$PROJECT_DIR$/works-private.php_work_87.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_87_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_87_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_88.html" afterPath="$PROJECT_DIR$/works-private.php_work_88.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_88_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_88_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_89.html" afterPath="$PROJECT_DIR$/works-private.php_work_89.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_89_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_89_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_90.html" afterPath="$PROJECT_DIR$/works-private.php_work_90.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_90_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_90_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_91.html" afterPath="$PROJECT_DIR$/works-private.php_work_91.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_91_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_91_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_92.html" afterPath="$PROJECT_DIR$/works-private.php_work_92.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_92_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_92_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_93.html" afterPath="$PROJECT_DIR$/works-private.php_work_93.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_93_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_93_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_94.html" afterPath="$PROJECT_DIR$/works-private.php_work_94.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_94_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_94_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_95.html" afterPath="$PROJECT_DIR$/works-private.php_work_95.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_95_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_95_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_96.html" afterPath="$PROJECT_DIR$/works-private.php_work_96.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_96_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_96_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_97.html" afterPath="$PROJECT_DIR$/works-private.php_work_97.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_97_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_97_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_98.html" afterPath="$PROJECT_DIR$/works-private.php_work_98.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_98_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_98_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_99.html" afterPath="$PROJECT_DIR$/works-private.php_work_99.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-private.php_work_99_lang_jp.html" afterPath="$PROJECT_DIR$/works-private.php_work_99_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_1.html" afterPath="$PROJECT_DIR$/works-public.php_work_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_10.html" afterPath="$PROJECT_DIR$/works-public.php_work_10.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_10_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_10_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_11.html" afterPath="$PROJECT_DIR$/works-public.php_work_11.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_11_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_11_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_12.html" afterPath="$PROJECT_DIR$/works-public.php_work_12.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_12_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_12_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_13.html" afterPath="$PROJECT_DIR$/works-public.php_work_13.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_13_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_13_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_14.html" afterPath="$PROJECT_DIR$/works-public.php_work_14.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_14_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_14_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_15.html" afterPath="$PROJECT_DIR$/works-public.php_work_15.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_15_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_15_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_16.html" afterPath="$PROJECT_DIR$/works-public.php_work_16.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_16_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_16_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_17.html" afterPath="$PROJECT_DIR$/works-public.php_work_17.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_17_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_17_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_18.html" afterPath="$PROJECT_DIR$/works-public.php_work_18.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_18_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_18_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_19.html" afterPath="$PROJECT_DIR$/works-public.php_work_19.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_19_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_19_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_1_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_1_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_2.html" afterPath="$PROJECT_DIR$/works-public.php_work_2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_20.html" afterPath="$PROJECT_DIR$/works-public.php_work_20.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_20_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_20_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_21.html" afterPath="$PROJECT_DIR$/works-public.php_work_21.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_21_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_21_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_22.html" afterPath="$PROJECT_DIR$/works-public.php_work_22.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_22_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_22_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_23.html" afterPath="$PROJECT_DIR$/works-public.php_work_23.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_23_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_23_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_24.html" afterPath="$PROJECT_DIR$/works-public.php_work_24.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_24_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_24_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_25.html" afterPath="$PROJECT_DIR$/works-public.php_work_25.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_25_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_25_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_26.html" afterPath="$PROJECT_DIR$/works-public.php_work_26.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_26_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_26_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_27.html" afterPath="$PROJECT_DIR$/works-public.php_work_27.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_27_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_27_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_28.html" afterPath="$PROJECT_DIR$/works-public.php_work_28.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_28_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_28_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_29.html" afterPath="$PROJECT_DIR$/works-public.php_work_29.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_29_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_29_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_2_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_2_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_30.html" afterPath="$PROJECT_DIR$/works-public.php_work_30.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_30_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_30_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_31.html" afterPath="$PROJECT_DIR$/works-public.php_work_31.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_31_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_31_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_32.html" afterPath="$PROJECT_DIR$/works-public.php_work_32.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_32_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_32_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_34.html" afterPath="$PROJECT_DIR$/works-public.php_work_34.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_34_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_34_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_36.html" afterPath="$PROJECT_DIR$/works-public.php_work_36.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_36_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_36_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_37.html" afterPath="$PROJECT_DIR$/works-public.php_work_37.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_37_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_37_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_38.html" afterPath="$PROJECT_DIR$/works-public.php_work_38.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_38_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_38_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_39.html" afterPath="$PROJECT_DIR$/works-public.php_work_39.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_39_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_39_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_4.html" afterPath="$PROJECT_DIR$/works-public.php_work_4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_40.html" afterPath="$PROJECT_DIR$/works-public.php_work_40.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_40_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_40_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_41.html" afterPath="$PROJECT_DIR$/works-public.php_work_41.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_5.html" afterPath="$PROJECT_DIR$/works-public.php_work_5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_5_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_5_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_6.html" afterPath="$PROJECT_DIR$/works-public.php_work_6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_6_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_6_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_7.html" afterPath="$PROJECT_DIR$/works-public.php_work_7.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_7_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_7_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_8.html" afterPath="$PROJECT_DIR$/works-public.php_work_8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_8_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_8_lang_jp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_9.html" afterPath="$PROJECT_DIR$/works-public.php_work_9.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-public.php_work_9_lang_jp.html" afterPath="$PROJECT_DIR$/works-public.php_work_9_lang_jp.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,62 +404,52 @@
     <session id="1595424038">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="16" />
+          <entry key="html" value="99" />
           <entry key="jpg" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="16" />
+          <entry key="HTML" value="99" />
           <entry key="Image" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="15" />
+          <entry key="html" value="638" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="15" />
+          <entry key="HTML" value="638" />
         </counts>
       </usages-collector>
     </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="temperory.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/temperory.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="temperory2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temperory2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <session id="1337531241">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,6 +457,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -88,17 +469,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/works-landing.php_lang_jp.html" />
-        <option value="$PROJECT_DIR$/works-private.php_lang_jp.html" />
-        <option value="$PROJECT_DIR$/works-private.php_work_1_lang_en.html" />
-        <option value="$PROJECT_DIR$/temperory2.html" />
-        <option value="$PROJECT_DIR$/works-private.php_work_1_lang_jp.html" />
-        <option value="$PROJECT_DIR$/works-private.php_work_2_lang_jp.html" />
-        <option value="$PROJECT_DIR$/works-private.php_work_3_lang_jp.html" />
-        <option value="$PROJECT_DIR$/works-private.php_work_4_lang_jp.html" />
-        <option value="$PROJECT_DIR$/works-private.php_work_5_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-private.php_work_98_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-private.php_work_99_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-private.php_work_100_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-private.php_work_101_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-private.php_work_102_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-private.php_work_103_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-private.php_work_104_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-private.php_work_105_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-private.php_work_106_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-private.php_work_107_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-private.php_work_108_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-private.php_work_109_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_1_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_2_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_5_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_6_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_7_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_8_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_9_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_10_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_11_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_12_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_13_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_14_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_15_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_16_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_17_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_18_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_19_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_20_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_21_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_22_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_23_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_24_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_25_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_26_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_27_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_28_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_29_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_30_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_31_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_32_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_34_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_36_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_37_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_38_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_39_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php_work_40_lang_jp.html" />
+        <option value="$PROJECT_DIR$/works-public.php.html" />
         <option value="$PROJECT_DIR$/temperory.html" />
-        <option value="$PROJECT_DIR$/works-private.php_work_6_lang_jp.html" />
       </list>
     </option>
   </component>
@@ -112,9 +533,10 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1377" />
-    <option name="height" value="779" />
+    <option name="width" value="980" />
+    <option name="height" value="554" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -130,30 +552,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Joostenpublic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Joostenpublic" type="462c0819:PsiDirectoryNode" />
+              <item name="Joostenpublic - Copy (2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Joostenpublic - Copy (2)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,39 +688,57 @@
       <workItem from="1551434355327" duration="1606000" />
       <workItem from="1551435995125" duration="1324000" />
       <workItem from="1551438047857" duration="214000" />
-      <workItem from="1551438506189" duration="1016000" />
+      <workItem from="1551438506189" duration="1602000" />
+      <workItem from="1551440171992" duration="1770000" />
+      <workItem from="1551441986273" duration="206000" />
+      <workItem from="1551464455212" duration="44000" />
+      <workItem from="1551464847182" duration="22000" />
+      <workItem from="1551516095343" duration="1547000" />
+      <workItem from="1551517964573" duration="1783000" />
+      <workItem from="1551519777487" duration="449000" />
+      <workItem from="1551532373759" duration="24000" />
+      <workItem from="1551532870124" duration="31000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4160000" />
+    <option name="totallyTimeSpent" value="10622000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15884861" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Google Cloud Storage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -306,43 +746,36 @@
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15884861" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Google Cloud Storage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -350,126 +783,5 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/works-private.php_work_1_lang_jp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works-private.php_work_1_lang_en.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="32" column="54" lean-forward="false" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works-landing.php_lang_jp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="55" column="37" lean-forward="true" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works-private.php.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works-private.php_lang_jp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
-          <folding>
-            <element signature="e#1892#1899#0" expanded="true" />
-            <marker date="1551435265005" expanded="true" signature="4687:4701" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works-private.php_work_1_lang_jp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="794">
-          <caret line="60" column="78" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="60" selection-end-column="78" />
-          <folding>
-            <marker date="1551439500850" expanded="true" signature="4652:4666" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works-private.php_work_2_lang_jp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="999">
-          <caret line="60" column="78" lean-forward="false" selection-start-line="60" selection-start-column="78" selection-end-line="60" selection-end-column="78" />
-          <folding>
-            <marker date="1551439500490" expanded="true" signature="4652:4666" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works-private.php_work_3_lang_jp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="916">
-          <caret line="60" column="78" lean-forward="false" selection-start-line="60" selection-start-column="78" selection-end-line="60" selection-end-column="78" />
-          <folding>
-            <element signature="e#3063#3070#0" expanded="true" />
-            <marker date="1551439500939" expanded="true" signature="4638:4652" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works-private.php_work_4_lang_jp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="58" column="95" lean-forward="false" selection-start-line="58" selection-start-column="95" selection-end-line="58" selection-end-column="95" />
-          <folding>
-            <marker date="1551439500594" expanded="true" signature="4636:4650" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temperory2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works-private.php_work_5_lang_jp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="58" column="95" lean-forward="false" selection-start-line="58" selection-start-column="95" selection-end-line="58" selection-end-column="95" />
-          <folding>
-            <marker date="1551439500313" expanded="true" signature="4656:4670" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works-private.php_work_6_lang_jp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding>
-            <marker date="1551439500674" expanded="true" signature="4657:4671" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temperory.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
